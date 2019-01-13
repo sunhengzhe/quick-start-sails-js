@@ -1,0 +1,8 @@
+{
+  "name": "wool-digger-api",
+  "script": "./app.js",
+  "instances": "max",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
